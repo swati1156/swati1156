@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swati1156
-- 👀 I’m interested in SQL,Python,Power BI Dashboard,EDA and Data Analytics
+- 👀 I’m interested in SQL, Python, Power BI Dashboard, EDA and Data Analytics
 - 🌱 I’m currently learning Supervised Machine learning
 - 💞️ I’m looking to collaborate on Data Analysis Project 
 - 📫 How to reach me swatipandit.kush@gmail.com
