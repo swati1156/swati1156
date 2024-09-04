@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swati1156
+- 👋 Hi, I’m Swati Pandit
 - 👀 I’m interested in SQL, Python, Power BI Dashboard, EDA and Data Analytics
 - 🌱 I’m currently learning Supervised Machine learning
 - 💞️ I’m looking to collaborate on Data Analysis Project 
